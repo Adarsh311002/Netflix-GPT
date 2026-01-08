@@ -1,6 +1,6 @@
-# 🎬 Netflix-GPT
+# 🎬 CineMind
 
-A Netflix-themed application enhanced with **AI-powered movie recommendations** using **Groq LLaMA-3 model**. This project combines the familiar Netflix-like UI with cutting-edge AI to suggest movies tailored exactly to your preferences.
+A application enhanced with **AI-powered movie recommendations** using **Groq LLaMA-3 model**. This project combines the familiar UI with cutting-edge AI to suggest movies tailored exactly to your preferences.
 
 ---
 
@@ -86,7 +86,7 @@ VITE_GROQ_API_KEY=your_groq_api_key
 
 ## 🎯 Unique Feature
 
-Unlike Netflix, **Netflix-GPT lets you ask AI for very specific movie recommendations**, tailoring results exactly to your preferences.
+Unlike Netflix, **CineMind lets you ask AI for very specific movie recommendations**, tailoring results exactly to your preferences.
 
 ---
 
